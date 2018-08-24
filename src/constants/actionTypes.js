@@ -1,0 +1,4 @@
+export const BEGIN_IMPORT = 'BEGIN_IMPORT';
+export const END_IMPORT = 'END_IMPORT';
+export const INCREMENT_ID = 'INCREMENT_ID';
+export const SET_ACTIVE_PROJECT = 'SET_ACTIVE_PROJECT';

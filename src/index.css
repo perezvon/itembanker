@@ -1,0 +1,32 @@
+.container {
+  border: 1px solid #111;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.dropdown-item:hover {
+  background-color: #1d2124;
+}
+
+tbody {
+  width: 100%;
+}
+
+.project {
+  border: 1px solid #02648F;
+  height: 300px;
+  margin: 10px;
+  padding: 5px;
+  transition: all 0.3s;
+}
+.project:hover {
+  cursor: pointer;
+  background: rgba(2, 80, 103, 0.4);
+}
